@@ -1,0 +1,6 @@
+Student Name 		- Marks
+
+Muttakin Newaz - 78 - B
+Sadim khan - 73 - B
+Alex - 85 - A
+John - 69 - C
